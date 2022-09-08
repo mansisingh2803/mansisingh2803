@@ -42,8 +42,9 @@ I'm a Front-end Developer 🚀 having an experience of building responsive web d
 
 - [Food_Site](https://mansisingh2803.github.io/React_Food_Site/)
 - [Todo App](https://mansisingh2803.github.io/todoapp/)
-- [Invoice](https://mansisingh2803.github.io/Invoice/)
-- 
+- [Image Editor](https://mansisingh2803.github.io/Image_editor/)
+- [Expense Tracker](https://mansisingh2803.github.io/Expense_tracker_react/)
+
 		
 
 
