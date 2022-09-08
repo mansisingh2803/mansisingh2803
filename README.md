@@ -40,10 +40,10 @@ I'm a Front-end Developer 🚀 having an experience of building responsive web d
 
 ### Projects 🌱
 
-- [Mini-Calculator](https://codepen.io/Mansee-28/pen/yLXRdyK)
-- [Landing Page of Starbucks](https://mansisingh2803.github.io/Landing-Page/)
+- [Food_Site](https://mansisingh2803.github.io/React_Food_Site/)
 - [Todo App](https://mansisingh2803.github.io/todoapp/)
 - [Invoice](https://mansisingh2803.github.io/Invoice/)
+- 
 		
 
 
